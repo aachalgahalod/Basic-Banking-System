@@ -1,2 +1,4 @@
 # Basic-Banking-System
-Implementation of basic banking project using HTML, CSS and Javascript.
+I have completed the project under the spark forundation internship. The project is made using HTML, CSS and Javascript. 
+This project stores the list of customers and also allows to transfer money among the available customers.
+
